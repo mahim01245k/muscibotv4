@@ -28,3 +28,4 @@ Click `Show` in the header to see your app live. Updates to your code will insta
 Find out more [about Glitch](https://glitch.com/about).
 
 ( ᵔ ᴥ ᵔ )
+[![Run on Repl.it](https://repl.it/badge/github/mahim01245k/muscibotv4)](https://repl.it/github/mahim01245k/muscibotv4)
